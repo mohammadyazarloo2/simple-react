@@ -1,0 +1,49 @@
+{
+    "data":[
+        {
+            "id":1,
+            "blogCategory":"featured",
+            "slug":"night dreams",
+            "postedOn":"january 26 2020",
+            "author":"walk",
+            "blogImage":"1.jpg",
+            "blogText":"we walk through in night to remember some memorize that help us to breathe"
+        },
+        {
+            "id":2,
+            "blogCategory":"featured",
+            "slug":"social networks",
+            "postedOn":"july 6 1990",
+            "author":"walk",
+            "blogImage":"2.jpg",
+            "blogText":"the social networks start to expolre on web on 19..."
+        },
+        {
+            "id":3,
+            "blogCategory":"featured",
+            "slug":"photos",
+            "postedOn":"july 6 2010",
+            "author":"walk",
+            "blogImage":"3.jpeg",
+            "blogText":"the weomen in the picture is taking pictures"
+        },
+        {
+            "id":4,
+            "blogCategory":"featured",
+            "slug":"fighting",
+            "postedOn":"july 6 2020",
+            "author":"walk",
+            "blogImage":"4.jpeg",
+            "blogText":"we fight to win the viruses"
+        },
+        {
+            "id":5,
+            "blogCategory":"featured",
+            "slug":"manager",
+            "postedOn":"july 6 2020",
+            "author":"walk",
+            "blogImage":"5.jpg",
+            "blogText":"lets manage people on the web"
+        }
+    ]
+}
